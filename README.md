@@ -129,7 +129,7 @@ console.log(shehan.motto());
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Achievement Showcase
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shehanharshakumara&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&row=2)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="[https://github-profile-trophy.vercel.app/?username=shehanharshakumara&theme=algolia&no-frame=true&no-bg=false&margin-w=15&margin-h=15&column=7&row=2)](https://github.com/ryo-ma/github-profile-trophy)](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bGJrdWR1eXNnbHE2Z2UwZmh2ZnhseWlnbTFmaWUwZG9qcHFsbHAweSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IMOTcqOtaEkXiBonLU/giphy.gif)">
 
 </div>
 
