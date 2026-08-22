@@ -118,7 +118,9 @@ console.log(shehan.motto());
 <!-- ============================================ -->
 <!-- ANIMATED DIVIDER -->
 <!-- ============================================ -->
-## 📊 GitHub Stats & Trophies
+## <div align="center">
+📊 GitHub Stats & Trophies
+</div>
 <p align="center">
   <a href="https://github.com/ShehanHarshaKumara">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ShehanHarshaKumara&cache_seconds=7200&layout=compact&theme=highcontrast&border_radius=10" alt="ShehanHarshaKumara's GitHub Stats" />
